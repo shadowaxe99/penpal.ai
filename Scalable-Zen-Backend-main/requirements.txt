@@ -1,0 +1,13 @@
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+flask
+flask-wtf
+flask_cors
+firebase-admin
+google-api-python-client
+instructor
+pytz
+beautifulsoup4
+gunicorn
+python-dotenv
